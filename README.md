@@ -2,7 +2,7 @@
 
 **A Fullstack ToDo List vue app using vuetify and firestore database.**
 
-##Screenshot:
+**Screenshot:**
 ![Screenshot](Screenshot.jpg)
 
 
