@@ -1,5 +1,14 @@
 # fue-todotify
 
+**A Fullstack ToDo List vue app using vuetify and firestore database.**
+
+##Screenshot:
+![Screenshot](Screenshot.JPG)
+
+
+
+
+
 ## Project setup
 ```
 npm install
